@@ -1,12 +1,12 @@
-# Nome do projeto
+# Vacine-se
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+O objetivo geral é desenvolver um site de vacinação que permita às pessoas registrarem suas vacinas, manter um histórico atualizado e acompanhar as doses que ainda precisam ser tomadas.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Bárbara Silva Guimarães
+* Jennifer Gabriela Barbosa Barcelos
+* Matheus Alexandre Pereira Braga
 * Nome completo do aluno 4
 
 ## Professores responsáveis
